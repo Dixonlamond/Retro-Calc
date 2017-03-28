@@ -299,6 +299,7 @@
 				88CE35D51E67D53800FB3199 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
